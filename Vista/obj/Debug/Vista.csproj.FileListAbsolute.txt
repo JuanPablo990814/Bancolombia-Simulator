@@ -1,0 +1,53 @@
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.Properties.Resources.resources
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Vista.exe.config
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Vista.exe
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Vista.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Controlador.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Modelo.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Controlador.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\bin\Debug\Modelo.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.exe
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.MenuAsesor.resources
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.ClientesCrud.resources
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.Productos.resources
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.InfoFinanciera.resources
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.SolicitudCredito.resources
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.CartaAprobacion.resources
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.CartaRechazo.resources
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Vista\bin\Debug\itextsharp.dll
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Vista\bin\Debug\itextsharp.xml
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Vista\obj\Debug\Bancolombia.Properties.Resources.resources
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.CartaAprobacion.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.CartaRechazo.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.ClientesCrud.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.Form1.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.InfoFinanciera.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.MenuAsesor.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.Productos.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Bancolombia.Properties.Resources.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.SolicitudCredito.resources
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Bancolombia.exe.config
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Bancolombia.exe.manifest
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Bancolombia.application
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Bancolombia.exe
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Bancolombia.pdb
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Controlador.dll
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Modelo.dll
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\itextsharp.dll
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Controlador.pdb
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Modelo.pdb
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\Modelo.dll.config
+D:\Documentos\Visual Studio\Bancolombia\Vista\bin\Debug\itextsharp.xml
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Bancolombia.exe.manifest
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Bancolombia.application
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Vista.csproj.CopyComplete
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Bancolombia.exe
+D:\Documentos\Visual Studio\Bancolombia\Vista\obj\Debug\Bancolombia.pdb

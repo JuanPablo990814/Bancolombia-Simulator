@@ -1,0 +1,26 @@
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\bin\Debug\Controlador.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\bin\Debug\Controlador.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\bin\Debug\Modelo.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\bin\Debug\Modelo.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\obj\Debug\Controlador.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\obj\Debug\Controlador.pdb
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Controlador\bin\Debug\itextsharp.dll
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Controlador\bin\Debug\itextsharp.pdfa.dll
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Controlador\bin\Debug\itextsharp.xtra.dll
+C:\Users\JPablo\Documents\Visual Studio 2017\Projects\Bancolombia\Controlador\bin\Debug\itextsharp.xml
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\Controlador.dll
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\Controlador.pdb
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\itextsharp.dll
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\itextsharp.pdfa.dll
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\itextsharp.xtra.dll
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\Modelo.dll
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\Modelo.pdb
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\itextsharp.xml
+D:\Documentos\Visual Studio\Bancolombia\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\Bancolombia\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+D:\Documentos\Visual Studio\Bancolombia\Controlador\obj\Debug\Controlador.dll
+D:\Documentos\Visual Studio\Bancolombia\Controlador\obj\Debug\Controlador.pdb
+D:\Documentos\Visual Studio\Bancolombia\Controlador\bin\Debug\Modelo.dll.config

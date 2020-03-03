@@ -1,0 +1,12 @@
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Modelo\bin\Debug\Modelo.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Modelo\bin\Debug\Modelo.pdb
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Modelo\obj\Debug\Modelo.dll
+c:\users\jpablo\documents\visual studio 2017\Projects\Bancolombia\Modelo\obj\Debug\Modelo.pdb
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\JPablo\documents\visual studio 2017\Projects\Bancolombia\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio\Bancolombia\Modelo\bin\Debug\Modelo.dll
+D:\Documentos\Visual Studio\Bancolombia\Modelo\bin\Debug\Modelo.pdb
+D:\Documentos\Visual Studio\Bancolombia\Modelo\obj\Debug\Modelo.dll
+D:\Documentos\Visual Studio\Bancolombia\Modelo\obj\Debug\Modelo.pdb
+D:\Documentos\Visual Studio\Bancolombia\Modelo\bin\Debug\Modelo.dll.config
+D:\Documentos\Visual Studio\Bancolombia\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
